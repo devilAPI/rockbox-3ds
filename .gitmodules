@@ -1,0 +1,3 @@
+[submodule "rockbox"]
+	path = rockbox
+	url = https://github.com/Rockbox/rockbox
